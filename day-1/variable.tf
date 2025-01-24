@@ -3,7 +3,7 @@ variable "ami" {
 }
 
 variable "key_name" {
-  default = "patil1234"
+  default = "diksha1234"
 }
 
 variable "instance_type" {
