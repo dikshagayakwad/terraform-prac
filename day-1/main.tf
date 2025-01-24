@@ -4,6 +4,6 @@ resource "aws_instance" "name" {
   instance_type = var.instance_type
 
   tags = {
-    name = "public-3"
+    name = "dev"
   }
 }
