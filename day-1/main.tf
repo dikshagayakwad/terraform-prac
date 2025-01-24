@@ -4,6 +4,6 @@ resource "aws_instance" "name" {
   instance_type = var.instance_type
 
   tags = {
-    name = "main123"
+    name = "main"
   }
 }
